@@ -1,6 +1,6 @@
 Fetch and link to config files
 ==============================
-git clone https://github.com/wokumura/devenv.git  
+git clone https://github.com/tp9/devenv.git  
 ln -sb devenv/.tmux.conf ~  
 ln -sb devenv/.bash_profile ~  
 ln -sb devenv/.bashrc ~  
